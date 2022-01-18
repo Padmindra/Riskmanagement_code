@@ -1,0 +1,18 @@
+{
+"padmindra.gurung@ey.uk.com":{
+    "password":"Init1234",
+    "ID":"riskmanager",
+    "userAttributes":{
+        "email":"padmindra.gurung@ey.uk.com"
+    },
+    "roles":["RiskManager"]
+  },
+  "pgurung202@yahoo.com":{
+    "password":"Init1234",
+    "ID":"riskviewer",
+    "userAttributes":{
+        "email":"pgurung202@yahoo.com"
+    },
+    "roles":["RiskViewer"]
+  }
+}
